@@ -1,0 +1,25 @@
+{
+  "name": "auth",
+  "version": "1.0.0",
+  "description": "Tutorial app",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaviKurtosys/node-auth.git"
+  },
+  "author": "Kavi Kistan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaviKurtosys/node-auth/issues"
+  },
+  "homepage": "https://github.com/KaviKurtosys/node-auth#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
